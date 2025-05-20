@@ -6,16 +6,14 @@ Tech Stack
 - Tailwind CSS 
 - JavaScript
 
-  Features
+Features
 
 - Responsive layout (mobile, tablet, desktop)
 - Clean and structured UI inspired by Razorpay
 - Simple animations and hover effects
 
-
 How to Use
 
-```bash
 # Clone the repository
 git clone https://github.com/sakshiTikariha/Razerpay-clone.git
 cd Razerpay-clone
