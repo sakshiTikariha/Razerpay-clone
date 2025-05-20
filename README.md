@@ -1,21 +1,19 @@
-This is a frontend-only clone of the Razorpay landing page. Built to practice responsive layouts, modern UI design, and clean component structure.
+# Razerpay UI Clone
 
-Tech Stack
+A frontend-only clone of the Razorpay landing page. This project focuses on responsive design, layout practice, and modern UI styling.
+
+## 🛠 Tech Stack
 
 - HTML5
-- Tailwind CSS 
+- TailwindCSS
 - JavaScript
 
-Features
+## 📂 How to Use
 
-- Responsive layout (mobile, tablet, desktop)
-- Clean and structured UI inspired by Razorpay
-- Simple animations and hover effects
-
-How to Use
-
+```bash
 # Clone the repository
 git clone https://github.com/sakshiTikariha/Razerpay-clone.git
 cd Razerpay-clone
 
 # Open the front.html file in your browser
+
