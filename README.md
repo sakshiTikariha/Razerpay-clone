@@ -4,7 +4,7 @@ A frontend-only clone of the Razorpay landing page. This project focuses on resp
 
 ## 🛠 Tech Stack
 
-- HTML5
+- HTML
 - TailwindCSS
 - JavaScript
 
